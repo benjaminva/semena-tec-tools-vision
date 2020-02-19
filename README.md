@@ -1,54 +1,54 @@
 # Sesiones
+En este archivo se describen las actividades por sesión que se llevaran a cabbo durante la semana.
+
 ### Explicación del estándar usado para evaluar
  (en caso de aplicar o ser diferente a los de github) (30 min)
-	Guías de estilo para python.  (PEP 8)
-	Guías de estilo para github   (Templates de los Commits en el proyecto).
-	Explicación de entrevista.
+[Guías de estilo para python.  (PEP 8)](https://www.python.org/dev/peps/pep-0008/)
+[Guías de estilo para github   (Templates de los Commits en el proyecto).](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
+Explicación de entrevista.
 
 ### ¿Qué es y para qué sirve el procesamiento de imágenes? (30 min)
-	La visión computacional y el procesamiento de imágenes.
+La visión computacional y el procesamiento de imágenes.
 Las imágenes son matrices de números. (código en python)
 Mostrar ejemplos de detectores. (Lo que se espera al final de la semana)
-Mostrar redes Convolutivas lo que se ve.
+Mostrar redes Convolutivas (Aplicación).
 
 ### ¿Que es una convolución?  (30 min)
-Image example 
+Image example  [Image](src)
 Gif
 
 ### Ejercicio acompañado convolución a mano  (30 min)
 Archivo Ejemplo
 
 ### Explicación y Demo de Implementación de Convolución  (30 min)
-	Mostrar código en python
-	Convolution.py
+Mostrar código en python
+Convolution.py
 
 ### Implementación de convolución individual (60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir 2 matrices: la imagen a modificar y el filtro, y debe devolver la matriz resultante de la operación.
-Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.   
+Cuando tu programa esté funcionando, súbelo a tu repositorio de git (commit y push) y pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.   
 
-### Búsqueda de Estándares:
-La primera parte de un innovación radica en conocer qué es lo que se hace actualmente. Lo primero de que debes hacer es investigar y encontrar que diferentes estándares o buenas prácticas se usan en la industria. Puedes buscar estándares sobre el lenguajes de programación, sobre el uso de git o sobre el tema del proyecto. Lleva ejemplos de cómo se aplica, ya sea código, logs, o pruebas demo.
- 
+### Búsqueda de Estándares (Innovación): (40 min)
+La primera parte de un innovación radica en conocer qué es lo que se hace actualmente. Lo primero que debes hacer es investigar y encontrar que diferentes estándares o buenas prácticas se usan en la industria. Puedes buscar estándares sobre el lenguajes de programación, sobre el uso de git o sobre el tema del proyecto. Busca o genera ejemplos de cómo se aplica, ya sea código, logs, o pruebas.
 Compara con tu equipo los estándares que cada uno encontró e identifiquen cuál es el estándar que mejor complementa su proyecto. Incluye en el readme del proyecto cuáles son los estándares que identificaron y expliquen cómo los aplican de manera individual (en cada parte del proyecto).
-Algunos ejemplos son:
-https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
-https://deepsource.io/blog/git-best-practices/
-https://www.python.org/dev/peps/pep-0008/
-https://www.hlevkin.com/06testimages.htm
+Algunos ejemplos de estándares son (busca otros diferentes a estos):
+-https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+-https://deepsource.io/blog/git-best-practices/
+-https://www.python.org/dev/peps/pep-0008/
+-https://www.hlevkin.com/06testimages.htm
 
-### Actividad de Innovación:
-A partir del proyecto ejemplo que se les presenta, genera con tu equipo una variación interesante, que siga cumpliendo con los requisitos y estándares propuestos (incluyendo los que identificaron). Describe la parte innovadora o nueva de tu proyecto en el readme del proyecto. Consulta con tu instructor los tipos de cambios que piensan hacer para asegurarse que sea factible que terminen en la duración de la semana.  
+### Propuesta de Proyecto (Innovación): (20 min)
+A partir del proyecto ejemplo de la semana, genera con tu equipo una variación interesante, que siga cumpliendo con los requisitos y estándares propuestos (incluyendo los que identificaron). Describe la parte innovadora o nueva de tu proyecto en el readme del proyecto. Consulta con tu instructor los tipos de cambios que piensan hacer para asegurarse que sean factibles y que terminen en la duración de la semana.
+Se espera que cada miembro del equipo generé sus porpios commits desde su cuenta personal y que integren el proyecto (merge branch) en un solo repositorio usando Git. Si no se tienen commits individuales y el merge, no tendrán evindencia suficiente para acreditar la semana.
 
-### Setup de las herramientas y uso de opencv
+### Setup de las herramientas y uso de opencv (60 min)
 Explicación de código muestra para leer y generar imágenes, instalación de opencv con PIP (60 min)
-	1. Mostrar cómo instalar Opencv en python
-	2. Mostrar cómo se reciben los archivos
-	3. Mostrar como se transforman las imágenes en números
-
-### Implementación de Convolución cada estudiante individual acompañado (120 min)
+1. Mostrar cómo instalar Opencv en python
+2. Mostrar cómo se reciben los archivos
+3. Mostrar como se transforman las imágenes en números
 
 ### ¿Qué es el Padding?  (15 min)
-	Imagen de padding
+	Imagen de padding [Image](src)
 ### Padding a mano acompañado   (15 min)
 	Imagen de padding
 ### Explicación y Demo de Implementación de Padding  (30 min)
@@ -56,39 +56,3 @@ Explicación de código muestra para leer y generar imágenes, instalación de o
 ### Implementación de Padding estudiantes individual acompañado por profesor  (60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir la matriz y el tamaño que debe tener la matriz a rellenar, y debe devolver la matriz llena de ceros en la orilla.
 Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares. 
-
-You can use the [editor on GitHub](https://github.com/benjaminva/semena-tec-tools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benjaminva/semena-tec-tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
