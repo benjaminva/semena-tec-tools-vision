@@ -15,7 +15,7 @@ Mostrar redes Convolutivas (Aplicación).
 
 ### ¿Que es una convolución?  (30 min)
 Image example  [Image](src)
-Gif
+[Conv animation by Andrej Karpathy](https://pathmind.com/wiki/convolutional-network) 
 
 ### Ejercicio acompañado convolución a mano  (30 min)
 Archivo Ejemplo
