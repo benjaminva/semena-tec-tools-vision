@@ -23,7 +23,7 @@ y en una imagen real de 3 dimensiones:
 
 ### Explicación y Demo de Implementación de Convolución  (30 min)
 Mostrar código en python
-Convolution.py
+[Convolution Simple.py](Scripts/Ejemplos)
 
 ### Implementación de convolución individual (60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir 2 matrices: la imagen a modificar y el filtro, y debe devolver la matriz resultante de la operación.
@@ -33,10 +33,10 @@ Cuando tu programa esté funcionando, súbelo a tu repositorio de git (commit y 
 La primera parte de un innovación radica en conocer qué es lo que se hace actualmente. Lo primero que debes hacer es investigar y encontrar que diferentes estándares o buenas prácticas se usan en la industria. Puedes buscar estándares sobre el lenguajes de programación, sobre el uso de git o sobre el tema del proyecto. Busca o genera ejemplos de cómo se aplica, ya sea código, logs, o pruebas.
 Compara con tu equipo los estándares que cada uno encontró e identifiquen cuál es el estándar que mejor complementa su proyecto. Incluye en el readme del proyecto cuáles son los estándares que identificaron y expliquen cómo los aplican de manera individual (en cada parte del proyecto).
 Algunos ejemplos de estándares son (busca otros diferentes a estos):
--https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
--https://deepsource.io/blog/git-best-practices/
--https://www.python.org/dev/peps/pep-0008/
--https://www.hlevkin.com/06testimages.htm
+-[Git best practices 1](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
+-[Git best practices 2](https://deepsource.io/blog/git-best-practices/)
+-[PEP 8](https://www.python.org/dev/peps/pep-0008/)
+-[Test Images](https://www.hlevkin.com/06testimages.htm)
 
 ### Propuesta de Proyecto (Innovación): (20 min)
 A partir del proyecto ejemplo de la semana, genera con tu equipo una variación interesante, que siga cumpliendo con los requisitos y estándares propuestos (incluyendo los que identificaron). Describe la parte innovadora o nueva de tu proyecto en el readme del proyecto. Consulta con tu instructor los tipos de cambios que piensan hacer para asegurarse que sean factibles y que terminen en la duración de la semana.
@@ -49,11 +49,15 @@ Explicación de código muestra para leer y generar imágenes, instalación de o
 3. Mostrar como se transforman las imágenes en números
 
 ### ¿Qué es el Padding?  (15 min)
-	Imagen de padding [Image](src)
+![](Images/1_noYcUAa_P8nRilg3Lt_nuA.png)
+Imagen de deeep learning using Caffe by Claud Greer
+
 ### Padding a mano acompañado   (15 min)
-	Imagen de padding
+Archivo excel ejemplo padding
+
 ### Explicación y Demo de Implementación de Padding  (30 min)
-	Mostrar código
+[Convolución con padding](Scripts/Ejemplos/convolution.py)
+
 ### Implementación de Padding estudiantes individual acompañado por profesor  (60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir la matriz y el tamaño que debe tener la matriz a rellenar, y debe devolver la matriz llena de ceros en la orilla.
-Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares. 
+Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.
