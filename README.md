@@ -14,11 +14,12 @@ Mostrar ejemplos de detectores. (Lo que se espera al final de la semana)
 Mostrar redes Convolutivas (Aplicación).
 
 ### ¿Que es una convolución?  (30 min)
-Image example  [Image](src)
+![](Images/Convolution.jpeg)
+y en una imagen real de 3 dimensiones:
 [Conv animation by Andrej Karpathy](https://pathmind.com/wiki/convolutional-network) 
 
 ### Ejercicio acompañado convolución a mano  (30 min)
-Archivo Ejemplo
+[Ejemplo de convolución](Files/examples%20convolution.xlsx)
 
 ### Explicación y Demo de Implementación de Convolución  (30 min)
 Mostrar código en python
