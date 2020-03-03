@@ -23,7 +23,7 @@ y en una imagen real de 3 dimensiones:
 
 ### Explicación y Demo de Implementación de Convolución  (30 min)
 Mostrar código en python
-[Convolution Simple.py](Scripts/Ejemplos)
+[Convolution Simple.py](Scripts/Ejemplos/simple_conv.py)
 
 ### Implementación de convolución individual (60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir 2 matrices: la imagen a modificar y el filtro, y debe devolver la matriz resultante de la operación.
