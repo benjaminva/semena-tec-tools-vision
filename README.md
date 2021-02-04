@@ -6,6 +6,9 @@ En este archivo se describen las actividades por sesión que se llevaran a cabbo
 [Guías de estilo para python.  (PEP 8)](https://www.python.org/dev/peps/pep-0008/)
 [Guías de estilo para github   (Templates de los Commits en el proyecto).](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
 Explicación de entrevista.
+estándares para logs en repositorios:
+[Git best practices 1](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
+[Git best practices 2](https://deepsource.io/blog/git-best-practices/)
 
 ### ¿Qué es y para qué sirve el procesamiento de imágenes? (30 min)
 La visión computacional y el procesamiento de imágenes.
@@ -29,18 +32,14 @@ Mostrar código en python
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir 2 matrices: la imagen a modificar y el filtro, y debe devolver la matriz resultante de la operación.
 Cuando tu programa esté funcionando, súbelo a tu repositorio de git (commit y push) y pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.   
 
-### Búsqueda de Estándares (Innovación): (40 min)
-La primera parte de un innovación radica en conocer qué es lo que se hace actualmente. Lo primero que debes hacer es investigar y encontrar que diferentes estándares o buenas prácticas se usan en la industria. Puedes buscar estándares sobre el lenguajes de programación, sobre el uso de git o sobre el tema del proyecto. Busca o genera ejemplos de cómo se aplica, ya sea código, logs, o pruebas.
-Compara con tu equipo los estándares que cada uno encontró e identifiquen cuál es el estándar que mejor complementa su proyecto. Incluye en el readme del proyecto cuáles son los estándares que identificaron y expliquen cómo los aplican de manera individual (en cada parte del proyecto).
-Algunos ejemplos de estándares son (busca otros diferentes a estos):
--[Git best practices 1](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
--[Git best practices 2](https://deepsource.io/blog/git-best-practices/)
--[PEP 8](https://www.python.org/dev/peps/pep-0008/)
--[Test Images](https://www.hlevkin.com/06testimages.htm)
+### Búsqueda de Filtros (Innovación): (40 min)
+La primera parte de un innovación radica en conocer qué es lo que se hace actualmente. Lo primero que debes hacer es investigar y encontrar que diferentes filtros usados para concoluciones y sus efectos en las imágenes. Buscar un par y comparalos con tu equipo e identifiquen cuál es el estándar que mejor complementa su proyecto. Incluye en el readme del proyecto los estándartes que buscaron, las fuentes de donde los sacaron y la esplicación de cual fue el que escogieron para implementar cada uno y porqué.
+Aquí puedes comenzar tu búsqueda:
+[Kernel for Copnvolutions](https://aishack.in/tutorials/image-convolution-examples/)
 
 ### Propuesta de Proyecto (Innovación): (20 min)
-A partir del proyecto ejemplo de la semana, genera con tu equipo una variación interesante, que siga cumpliendo con los requisitos y estándares propuestos (incluyendo los que identificaron). Describe la parte innovadora o nueva de tu proyecto en el readme del proyecto. Consulta con tu instructor los tipos de cambios que piensan hacer para asegurarse que sean factibles y que terminen en la duración de la semana.
-Se espera que cada miembro del equipo generé sus porpios commits desde su cuenta personal y que integren el proyecto (merge branch) en un solo repositorio usando Git. Si no se tienen commits individuales y el merge, no tendrán evindencia suficiente para acreditar la semana.
+En equipo generen un repositorio para su proyecto, recuerden que cada quien tendrá que hacer su propia rama y después integrarlo con su repositorio prinicpal.
+Siguiendo las buenas prácticas de github y python preparen el esqueleto de lo que será su proyecto y hagan la repartición del trabajo que le tocará a cada uno. Se espera que cada miembro del equipo generé sus porpios commits desde su cuenta personal y que integren el proyecto (merge branch) en un solo repositorio usando Git. Si no se tienen commits individuales y el merge, no tendrán evindencia suficiente para acreditar la semana. El objetivo es que no pierdan tiempo en el setup del proyecto en las siguientes sesiones.
 
 ### Setup de las herramientas y uso de opencv (60 min)
 Explicación de código muestra para leer y generar imágenes, instalación de opencv con PIP (60 min)
@@ -61,3 +60,5 @@ Archivo excel ejemplo padding
 ### Implementación de Padding estudiantes individual acompañado por profesor  (60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir la matriz y el tamaño que debe tener la matriz a rellenar, y debe devolver la matriz llena de ceros en la orilla.
 Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.
+
+### Mostrar Proyecto ejemplo corriendo y dar instrucciones finales para el proyecto
