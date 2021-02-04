@@ -4,11 +4,16 @@ En este archivo se describen las actividades por sesión que se llevaran a cabbo
 ### Explicación del estándar usado para evaluar
  (en caso de aplicar o ser diferente a los de github) (30 min)
 [Guías de estilo para python.  (PEP 8)](https://www.python.org/dev/peps/pep-0008/)
+
 [Guías de estilo para github   (Templates de los Commits en el proyecto).](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
 Explicación de entrevista.
+
 estándares para logs en repositorios:
+
 [Git best practices 1](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
+
 [Git best practices 2](https://deepsource.io/blog/git-best-practices/)
+
 
 ### ¿Qué es y para qué sirve el procesamiento de imágenes? (30 min)
 La visión computacional y el procesamiento de imágenes.
