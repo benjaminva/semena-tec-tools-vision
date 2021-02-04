@@ -16,10 +16,20 @@ estándares para logs en repositorios:
 
 
 ### ¿Qué es y para qué sirve el procesamiento de imágenes? (30 min)
-La visión computacional y el procesamiento de imágenes.
-Las imágenes son matrices de números. (código en python)
-Mostrar ejemplos de detectores. (Lo que se espera al final de la semana)
-Mostrar redes Convolutivas (Aplicación).
+* La visión computacional y el procesamiento de imágenes.
+* Las imágenes son matrices de números
+
+![](https://miro.medium.com/max/4200/1*wRxkeTA81ORWT_EZdAJlpg.png)
+[source](https://becominghuman.ai/real-computer-vision-for-mobile-and-embedded-part-1-c04ea8b9fd26).
+* Mostrar ejemplos de detectores. 
+
+![](https://docs.opencv.org/master/gradients.jpg) 
+[source](https://docs.opencv.org/master/d5/d0f/tutorial_py_gradients.html)
+* Lo que se espera al final de la semana: Proyecto Vision/sobel.py (requiere: pip install opencv-python) 
+* Mostrar redes Convolutivas 
+![](https://miro.medium.com/max/1225/1*8glEk7UHJHUS297DrcFk4g.jpeg) 
+
+[source](https://becominghuman.ai/real-computer-vision-for-mobile-and-embedded-part-1-c04ea8b9fd26).
 
 ### ¿Que es una convolución?  (30 min)
 ![](Images/Convolution.jpeg)
@@ -27,10 +37,11 @@ y en una imagen real de 3 dimensiones:
 [Conv animation by Andrej Karpathy](https://pathmind.com/wiki/convolutional-network) 
 
 ### Ejercicio acompañado convolución a mano  (30 min)
+Hagamos una convolución a mano para entender mejor como funciona.
 [Ejemplo de convolución](Files/examples%20convolution.xlsx)
 
 ### Explicación y Demo de Implementación de Convolución  (30 min)
-Mostrar código en python
+Una convolución simplificada, poco eficiente, pero más entendible a continuación veremos el código paso a paso, descarlo y agrega comentarios.
 [Convolution Simple.py](Scripts/Ejemplos/simple_conv.py)
 
 ### Implementación de convolución individual (60 min)
@@ -48,9 +59,10 @@ Siguiendo las buenas prácticas de github y python preparen el esqueleto de lo q
 
 ### Setup de las herramientas y uso de opencv (60 min)
 Explicación de código muestra para leer y generar imágenes, instalación de opencv con PIP (60 min)
-1. Mostrar cómo instalar Opencv en python
-2. Mostrar cómo se reciben los archivos
-3. Mostrar como se transforman las imágenes en números
+1. Mostrar cómo instalar Opencv en python                          (pip install opencv-python)
+2. Mostrar cómo se reciben los archivos corriendo el programa      (python sobel.py  --image imagen.jpg) 
+3. Mostrar cómo se reciben los archivos dentro del cósigo          (args = vars(ap.parse_args()) 
+4. Mostrar como se transforman las imágenes en números             (image = cv2.imread(args["image"])
 
 ### ¿Qué es el Padding?  (15 min)
 ![](Images/1_noYcUAa_P8nRilg3Lt_nuA.png)
@@ -66,4 +78,6 @@ Archivo excel ejemplo padding
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir la matriz y el tamaño que debe tener la matriz a rellenar, y debe devolver la matriz llena de ceros en la orilla.
 Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.
 
-### Mostrar Proyecto ejemplo corriendo y dar instrucciones finales para el proyecto
+### Mostrar Ejemplo de repositorio con buenas prácticas
+
+
