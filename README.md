@@ -1,7 +1,9 @@
 # Sesiones
 En este archivo se describen las actividades por sesión que se llevaran a cabbo durante la semana.
 
-### Explicación del estándar usado para evaluar
+## Martes
+
+### Explicación del estándar usado para evaluar 
  (en caso de aplicar o ser diferente a los de github) (30 min)
 [Guías de estilo para python.  (PEP 8)](https://www.python.org/dev/peps/pep-0008/)
 
@@ -31,6 +33,8 @@ estándares para logs en repositorios:
 
 [source](https://becominghuman.ai/real-computer-vision-for-mobile-and-embedded-part-1-c04ea8b9fd26).
 
+## Miércoles
+
 ### ¿Que es una convolución?  (30 min)
 ![](Images/Convolution.jpeg)
 y en una imagen real de 3 dimensiones:
@@ -53,9 +57,12 @@ La primera parte de un innovación radica en conocer qué es lo que se hace actu
 Aquí puedes comenzar tu búsqueda:
 [Kernel for Copnvolutions](https://aishack.in/tutorials/image-convolution-examples/)
 
+
 ### Propuesta de Proyecto (Innovación): (20 min)
 En equipo generen un repositorio para su proyecto, recuerden que cada quien tendrá que hacer su propia rama y después integrarlo con su repositorio prinicpal.
 Siguiendo las buenas prácticas de github y python preparen el esqueleto de lo que será su proyecto y hagan la repartición del trabajo que le tocará a cada uno. Se espera que cada miembro del equipo generé sus porpios commits desde su cuenta personal y que integren el proyecto (merge branch) en un solo repositorio usando Git. Si no se tienen commits individuales y el merge, no tendrán evindencia suficiente para acreditar la semana. El objetivo es que no pierdan tiempo en el setup del proyecto en las siguientes sesiones.
+
+## Jueves
 
 ### Setup de las herramientas y uso de opencv (60 min)
 Explicación de código muestra para leer y generar imágenes, instalación de opencv con PIP (60 min)
