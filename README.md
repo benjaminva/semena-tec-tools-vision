@@ -71,17 +71,17 @@ Explicación de código muestra para leer y generar imágenes, instalación de o
 
 ## Jueves
 
-### ¿Qué es el Padding?  (15 min)
+### ¿Qué es el Padding? (Clase 15 min)
 ![](Images/1_noYcUAa_P8nRilg3Lt_nuA.png)
 Imagen de deeep learning using Caffe by Claud Greer
 
-### Padding a mano acompañado   (15 min)
+### Padding a mano acompañado (Clase 15 min)
 Archivo excel ejemplo padding
 
-### Explicación y Demo de Implementación de Padding  (30 min)
+### Explicación y Demo de Implementación de Padding (Clase 30 min)
 [Convolución con padding](Scripts/Ejemplos/convolution.py)
 
-### Implementación de Padding estudiantes individual acompañado por profesor  (60 min)
+### Implementación de Padding estudiantes individual acompañado por profesor  (Clase 60 min)
 Basándote en el ejemplo mostrado en clase, implementa tu propia versión de una convolución. Tu función debe recibir la matriz y el tamaño que debe tener la matriz a rellenar, y debe devolver la matriz llena de ceros en la orilla.
 Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega pega el link de tu repo en canvas en la actividad de implementación de convolución individual. Recuerda que tu código y commits deben de cumplir con todos lo estándares.
 
