@@ -54,7 +54,7 @@ Cuando tu programa esté funcionando, súbelo a tu repositorio de git (commit y 
 ### Búsqueda de Filtros (Innovación): (Trabajo independiente 40 min)
 La primera parte de un innovación radica en conocer qué es lo que se hace actualmente. Lo primero que debes hacer es investigar y encontrar que diferentes filtros usados para concoluciones y sus efectos en las imágenes. Buscar un par y comparalos con tu equipo e identifiquen cuál es el estándar que mejor complementa su proyecto. Incluye en el readme del proyecto los estándartes que buscaron, las fuentes de donde los sacaron y la esplicación de cual fue el que escogieron para implementar cada uno y porqué.
 Aquí puedes comenzar tu búsqueda:
-[Kernel for Copnvolutions](https://aishack.in/tutorials/image-convolution-examples/)
+[Kernel for Convolutions](https://aishack.in/tutorials/image-convolution-examples/)
 
 
 ### Propuesta de Proyecto (Innovación): (Trabajo independiente 20 min)
