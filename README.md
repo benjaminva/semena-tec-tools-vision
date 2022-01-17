@@ -1,7 +1,25 @@
 # Sesiones
-En este archivo se describen las actividades por sesión para los contenidos de visión que se llevaran a cabo durante la semana.
 
 ## Martes
+
+### Introducción
+* Intención
+* Modo de trabajo 
+* Evaluación y entregables
+* [Intro a control de versiones](Files/Git.pptx)
+
+### Computer Science Tools: Creación Repo Individual 
+
+Sigue el siguiente tutorial de github, [Creación de cuenta y submits Github](Files/Laboratorio%20GitHub.pdf)
+al terminar deberás tener creada tu cuenta y tu repositorio individual, recuerda hacer tus commits siguiendo estándares ya que estos se usarán para calificar la semana tec.
+
+
+### Computer Science Tools: Trabajando en equipo: Ramas y Merges
+Sigue el siguiente tutorial de github, [Laboratorio Ramas](Files/Laboratorio%20Ramas.pdf)
+al terminar deberás tener un repositorio en equipo  en el cuál trabajaras con tus compañeros, recuerda que se evaluán los commits indivudales de cada quién, así es necesario que cada quien haga commits desde su propia cuenta al repositorio en equipo y que hagan los merges pertinentes.
+
+
+## Miércoles
 
 ### Explicación del estándar usado para evaluar (Clase 30 min)
 [Guías de estilo para python.  (PEP 8)](https://www.python.org/dev/peps/pep-0008/)
