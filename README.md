@@ -106,6 +106,10 @@ Cuando tu programa esté funcionando, súbelo a tu repositorio de git y entrega 
 ### Mostrar Ejemplo de repositorio con buenas prácticas
 
 ## Viernes
+### Entrevista
+Durante a la última sesión el profesor se sentará con cada equipo para ver el avance que llevan y saber que hizo cada estudiante, estas notas las usará como parte de la evaluación para determinar que cada estudiante este hacieno su parte correspondiente. 
+
+**Se espera que para esta sesión el repositorio en equipo ya tenga un avance del 80% de todos los miembros del equipo y que el programa ya esté funcionando.**
 
 ### Entrega en canvas tus repositorios y video
 Evidencia de proyecto
